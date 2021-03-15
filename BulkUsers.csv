@@ -1,0 +1,12 @@
+firstname:lastname:username:password:ou
+User:1:user.1:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:2:user.2:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:3:user.3:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:4:user.4:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:5:user.5:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:6:user.6:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:7:user.7:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:8:user.8:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:9:user.9:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+User:10:user.10:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
+Defillippo:DA:Defillippo.DA:MiniBike125:"OU=UserAccounts,DC=LABDOMAIN,DC=com"
